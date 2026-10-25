@@ -1,0 +1,6 @@
+{
+  "name": "Saint Enterprise - Validador y Optimizador de CxC (SAACxC / SACLIE)",
+  "description": "Suite de auditoría técnica, diagnóstico y optimización T-SQL para recuperación de saldos de Cuentas por Cobrar en Saint Enterprise Administrativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
